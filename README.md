@@ -1,5 +1,6 @@
 # Digital-transformation_Telecom
-Presentations and documents relating to a Digital transformation project in the Telecommunications sector
+
+Digital transformation project in the Telecommunications sector
 
 The project period was two years.
 
