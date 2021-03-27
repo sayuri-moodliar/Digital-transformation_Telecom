@@ -5,26 +5,28 @@ The project period was two years.
 
 Steps in project process:
 
-1: The digital transformation team
+1: Selecting and assigning the digital transformation team
 
-2: Macroeconomic market research
+2: Conducting macroeconomic market research
 
-3: Digital audit and needs analysis of the client
+3: Conducting a digital audit and needs analysis of the client
 
 4: Presentation of findings to client
 
 5: Feedback from client
 
-6: Update findings and way forward
+6: Updating findings and way forward
 
-7: Implementation
+7: Implementation of project plan
 
-8: Review of process and implementation
+8: Reviewing process and implementation
 
-9: Draft report to client
+9: Issuing draft report to client
 
-10: Feedback and final report
+10: Feedback and submission of final report
+
 
 See Code tab for presentations, checklists, surveys and other documents used.
+
 
 Contact Owner for access to documents classified as Private
