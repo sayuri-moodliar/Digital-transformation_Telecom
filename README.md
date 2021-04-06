@@ -2,7 +2,9 @@
 
 Digital transformation project in the Telecommunications sector
 
+
 The project period was two years.
+
 
 Steps in project process:
 
@@ -25,6 +27,7 @@ Steps in project process:
 9: Issuing draft report to client
 
 10: Feedback and submission of final report
+
 
 
 See Code tab for presentations, checklists, surveys and other documents used.
